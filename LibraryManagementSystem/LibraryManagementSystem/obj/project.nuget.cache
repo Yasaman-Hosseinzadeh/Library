@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wKSFhk5ESVvEo/m2R3ycSg6R6RkPFiACxutu4xFlmKhDn+pLa0XXEpOi1NPCGQx4cG7zjTQkLZvNmwDHgF0w2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yhosseinzade\\source\\repos\\Library-Management-System-Windowsform\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yhosseinzade\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
